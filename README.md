@@ -27,3 +27,5 @@ Added in Explore project
 New line added through git bash
 
 Second line added in git bash
+
+Third line added in Test Project
