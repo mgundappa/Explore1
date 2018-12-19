@@ -23,3 +23,5 @@ Seventh line added in patch branch
 Seventh line added in master branch
 
 New line added through git bash
+
+Second line added in git bash
