@@ -8,3 +8,6 @@ Second line added to New branch
 Third line added to master branch
 
 Fourth line added to patch branch
+
+Fourth Line Added to Master branch
+
