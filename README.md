@@ -25,3 +25,5 @@ Seventh line added in master branch
 Added in Explore project
 
 New line added through git bash
+
+New line added in Explore1 project
