@@ -22,6 +22,8 @@ Seventh line added in patch branch
 
 Seventh line added in master branch
 
+Added in Explore project
+
 New line added through git bash
 
 Second line added in git bash
