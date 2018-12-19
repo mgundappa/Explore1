@@ -15,4 +15,6 @@ Fifth line added to patch branch
 
 Fifth Line added to master branch
 
+Sixth line added in patch branch
+
 
