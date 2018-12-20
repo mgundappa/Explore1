@@ -41,3 +41,5 @@ diffline added for git diff verification
 2nd line added for git diff demonstration
 
 Line Added in Explore2 branch
+
+New Line Added in Explore2 bt=ranch
