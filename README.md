@@ -43,3 +43,4 @@ diffline added for git diff verification
 Line Added in Explore2 branch
 
 New line added in master branch for conflict test
+New Line Added in Explore2 bt=ranch
