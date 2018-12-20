@@ -39,3 +39,5 @@ Third line added in Test Project
 diffline added for git diff verification
 
 2nd line added for git diff demonstration
+
+Line Added in Explore2 branch
